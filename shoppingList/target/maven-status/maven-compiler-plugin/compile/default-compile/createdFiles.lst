@@ -1,0 +1,7 @@
+com\example\shoppingList\product\Product.class
+com\example\shoppingList\product\ProductService.class
+com\example\shoppingList\product\ProductRepository.class
+com\example\shoppingList\product\ProductController.class
+com\example\shoppingList\ShoppingListApplication.class
+com\example\shoppingList\product\ProductConfig.class
+com\example\shoppingList\controllers\HelloController.class
